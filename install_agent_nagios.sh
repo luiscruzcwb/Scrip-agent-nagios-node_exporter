@@ -1,8 +1,8 @@
 #!/bin/bash
 #Instalar agente nagios 
-#IP Nagios 35.209.110.48
+#Altere o IP para o Ip do Servidor do Nagios
 
-IP=35.209.110.48
+IP=xx.xx.xx.xx
 DIR=/etc/nagios/nrpe.cfg
 
 apt update && apt install -y nagios-nrpe-server nagios-plugins && apt clean
