@@ -1,5 +1,5 @@
 <p style="text-align: center;"><strong>Script para Nagios Agent e Nodeexporter Agent</strong></p>
-<p><br />Script que executa a instala&ccedil;&atilde;o dos agentes utilizados pelo <span style="text-decoration: underline;"><strong>NAGIOS</strong> </span>e <span style="text-decoration: underline;"><strong>PROMETHEUS</strong> </span>para envio de m&eacute;tricas.&nbsp;</p>
+<p><br />Script para execução e instalação dos agentes utilizados pelo <span style="text-decoration: underline;"><strong>NAGIOS</strong> </span>e <span style="text-decoration: underline;"><strong>PROMETHEUS</strong> </span>para envio de m&eacute;tricas.&nbsp;</p>
 <p>&nbsp;</p>
 <p data-pm-slice="1 1 []"><strong>Instala&ccedil;&atilde;o:</strong></p>
 <ul class="ak-ul">
